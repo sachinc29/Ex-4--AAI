@@ -61,7 +61,7 @@ print(most_likely_sequence)
 ```
 
 ## Output:
-![alt text](image-1.png)
+![image](https://github.com/user-attachments/assets/973af0f9-3f4c-48cc-b74c-6e41b719b694)
 
 ## Result:
 Thus Hidden Markov Model is implemented using python.
